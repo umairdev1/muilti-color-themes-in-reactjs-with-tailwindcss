@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #ff6347; /* Default Theme Primary - Tomato */
+  --color-secondary: #4db8ff; /* Default Theme Secondary - Light Sky Blue */
+}
+
+.theme1 {
+  --color-primary: #ff6347; /* Tomato */
+  --color-secondary: #4db8ff; /* Light Sky Blue */
+}
+
+.theme2 {
+  --color-primary: #ffd700; /* Gold */
+  --color-secondary: #32cd32; /* Lime Green */
+}
+
+.theme3 {
+  --color-primary: #ff4500; /* OrangeRed */
+  --color-secondary: #1e90ff; /* DodgerBlue */
+}
+
+.theme4 {
+  --color-primary: #8a2be2; /* BlueViolet */
+  --color-secondary: #7fffd4; /* Aquamarine */
+}
+
+.theme5 {
+  --color-primary: #dc143c; /* Crimson */
+  --color-secondary: #00ced1; /* DarkTurquoise */
+}
+
+.theme6 {
+  --color-primary: #ff69b4; /* HotPink */
+  --color-secondary: #ba55d3; /* MediumOrchid */
+}
+
+.theme7 {
+  --color-primary: #228b22; /* ForestGreen */
+  --color-secondary: #ff8c00; /* DarkOrange */
+}
